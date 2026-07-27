@@ -17,28 +17,25 @@
 
 <h3>✨ Featured work</h3>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://yanaharcourt.dev/Paragliding/">Innsbruck Paragliding</a></b><br/>
-      <sub>Tandem-flight booking site — from concept to live product</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://yanaharcourt.dev/JustName/signatura-case-study.html">Signatura</a></b><br/>
-      <sub>Breaking-school brand & booking experience — case study</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://yanaharcourt.dev/Aura/Aura.html">Aura</a></b><br/>
-      <sub>Bipolar companion app — mental-health product design case study</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://yanaharcourt.dev/English-Play/englishplay.html">EnglishPlay</a></b><br/>
-      <sub>Language-learning platform — case study</sub>
-    </td>
-  </tr>
-</table>
+<a href="https://yanaharcourt.dev/Paragliding/">
+  <img src="assets/paragliding.jpg" width="100%" alt="Innsbruck Paragliding" />
+</a>
+<p><b><a href="https://yanaharcourt.dev/Paragliding/">Innsbruck Paragliding</a></b> — tandem-flight booking site, from concept to live product</p>
+
+<a href="https://yanaharcourt.dev/JustName/signatura-case-study.html">
+  <img src="assets/signatura.jpg" width="100%" alt="Signatura" />
+</a>
+<p><b><a href="https://yanaharcourt.dev/JustName/signatura-case-study.html">Signatura</a></b> — breaking-school brand & booking experience, case study</p>
+
+<a href="https://yanaharcourt.dev/Aura/Aura.html">
+  <img src="assets/aura.jpg" width="100%" alt="Aura" />
+</a>
+<p><b><a href="https://yanaharcourt.dev/Aura/Aura.html">Aura</a></b> — bipolar companion app, mental-health product design case study</p>
+
+<a href="https://yanaharcourt.dev/English-Play/englishplay.html">
+  <img src="assets/englishplay.jpg" width="100%" alt="EnglishPlay" />
+</a>
+<p><b><a href="https://yanaharcourt.dev/English-Play/englishplay.html">EnglishPlay</a></b> — language-learning platform, case study</p>
 
 <p align="center"><a href="https://yanaharcourt.dev/all-work.html"><b>See all projects →</b></a></p>
 
@@ -49,9 +46,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-1C1B19?style=flat-square&logo=figma&logoColor=B8431F" alt="Figma" />
   <img src="https://img.shields.io/badge/Webflow-1C1B19?style=flat-square&logo=webflow&logoColor=B8431F" alt="Webflow" />
-  <img src="https://img.shields.io/badge/HTML/CSS-1C1B19?style=flat-square&logo=css3&logoColor=B8431F" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/CSS-1C1B19?style=flat-square&logo=css3&logoColor=B8431F" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-1C1B19?style=flat-square&logo=html5&logoColor=B8431F" alt="HTML" />
   <img src="https://img.shields.io/badge/Prototyping-1C1B19?style=flat-square&logo=framer&logoColor=B8431F" alt="Prototyping" />
-  <img src="https://img.shields.io/badge/User%20Research-1C1B19?style=flat-square&logo=googleforms&logoColor=B8431F" alt="User Research" />
+  <img src="https://img.shields.io/badge/User%20Research-B8431F?style=flat-square&labelColor=1C1B19" alt="User Research" />
 </p>
 
 <br/>
@@ -59,12 +57,7 @@
 <h3>📊 GitHub activity</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yanaharcourt&show_icons=true&hide_title=true&bg_color=F7F3EC&title_color=1C1B19&text_color=5B5850&icon_color=B8431F&border_color=1C1B19&hide_border=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanaharcourt&layout=compact&hide_title=true&bg_color=F7F3EC&title_color=1C1B19&text_color=5B5850&border_color=1C1B19&hide_border=false" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yanaharcourt&background=F7F3EC&stroke=1C1B19&ring=B8431F&fire=B8431F&currStreakLabel=1C1B19&sideLabels=5B5850&currStreakNum=1C1B19&sideNums=1C1B19&dates=5B5850&hide_border=false" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=yanaharcourt&background=F7F3EC&stroke=1C1B19&ring=B8431F&fire=B8431F&currStreakLabel=1C1B19&sideLabels=5B5850&currStreakNum=1C1B19&sideNums=1C1B19&dates=5B5850&hide_border=false" alt="GitHub streak" />
 </p>
 
 <br/>
